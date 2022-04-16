@@ -1,1 +1,2 @@
-# emacsdots
+# dotfiles
+dots :)
